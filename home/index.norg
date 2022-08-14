@@ -1,0 +1,28 @@
+@data
+  title: general notes
+  date: 2022-08-14
+@end
+
+* College notes
+
+Index of markdown notes taking in class.
+
+  ~ {:/home/camilo/Documents/universidad/Matematicas discretas/index:}[Discrete Mathematics]
+  ~ {:/home/camilo/Documents/universidad/Calculo diferncial/index:}[Diferential Calculus]
+  ~ {:/home/camilo/Documents/universidad/Estructura de datos/index:}[Data Structure]
+  ~ {:/home/camilo/Documents/universidad/Infraestructura computacional/index:}[Computational Infraestructure]
+
+
+*  General tasks
+
+  > Pure mathematics is, in its way, the poetry of logical ideas.
+
+** Thing to learn
+  - [-] Learn rust.
+  - [-] Study maths.
+  -- [x] Learn factorization.
+  -- [-] Complete problems in calculus book.
+   -- [ ] Learn how program discrete maths problems.
+   - [ ] Read the hobbit.
+   - [ ] Read the origin of species.
+
